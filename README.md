@@ -10,7 +10,7 @@
 
 ###![Outcomes Based On Launch Date](https://github.com/JuleahK/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
-###![Outcomes vs Goals](path/to/outcomes_vs_goals.png)
+###![Outcomes vs Goals](https://github.com/JuleahK/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
 ###There were several hurdles that had to be overcome during this analysis. These challenges just came from the newness of Excel and its functions. Finding the correct parameters in formulas was the most common challenge encountered and research and class resources were used to overcome them. The dataset and instructions were straightforward easy to follow.
 
