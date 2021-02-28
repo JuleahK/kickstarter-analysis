@@ -14,6 +14,8 @@ This analysis was completed by filtering out data relative to what Louise was in
 ###Analysis of Outcomes Based on Goals
 ![Outcomes vs Goals](https://github.com/JuleahK/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
+###Challenges and Difficulties Encountered
+
 There were several hurdles that had to be overcome during this analysis. These challenges just came from the newness of Excel and its functions. Finding the correct parameters in formulas was the most common challenge encountered and research and class resources were used to overcome them. The dataset and instructions were straightforward easy to follow.
 
 ##Results
