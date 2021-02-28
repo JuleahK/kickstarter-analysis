@@ -1,6 +1,6 @@
 #**An Analysis of Kickstarter Campaigns**
 
-##Performing analysis on Kickstarter data to uncover trends of successful projects
+##Performing analysis on Kickstarter data to uncover trends of successful projects based on launch dates and goals
 
 ###This project provides a large data sample of various Kickstarter projects. These are failed or successful projects based on location, goal, launch date, run time, and the type of project being funded. The purpose of this analysis is to help Louise determine which projects for theater were successful and why by comparing the data to failed projects. These insights will help her create her own successful Kickstarter project.
 
