@@ -8,7 +8,7 @@
 
 ###This analysis was completed by filtering out data relative to what Louise was interested in. Specifically, she was interested in the “theater” projects and when the most successful projects were launched. A data set was made filtering out theater projects and their launch dates throughout a year, and the outcomes of those projects. A similar data set was filtered using a more specific filter for “plays,” and their outcomes based on the goals set by each project.
 
-###![Outcomes Based On Launch Date](path/to/theater_outcomes_vs_launch.png)
+###![Outcomes Based On Launch Date](https://github.com/JuleahK/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ###![Outcomes vs Goals](path/to/outcomes_vs_goals.png)
 
