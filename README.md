@@ -6,13 +6,15 @@
 
 ##Analysis and Challenges
 
-###This analysis was completed by filtering out data relative to what Louise was interested in. Specifically, she was interested in the “theater” projects and when the most successful projects were launched. A data set was made filtering out theater projects and their launch dates throughout a year, and the outcomes of those projects. A similar data set was filtered using a more specific filter for “plays,” and their outcomes based on the goals set by each project.
+This analysis was completed by filtering out data relative to what Louise was interested in. Specifically, she was interested in the “theater” projects and when the most successful projects were launched. A data set was made filtering out theater projects and their launch dates throughout a year, and the outcomes of those projects. A similar data set was filtered using a more specific filter for “plays,” and their outcomes based on the goals set by each project.
 
-###![Outcomes Based On Launch Date](https://github.com/JuleahK/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+###Analysis of Outcomes Based on Launch Date
+![Outcomes Based On Launch Date](https://github.com/JuleahK/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
-###![Outcomes vs Goals](https://github.com/JuleahK/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
+###Analysis of Outcomes Based on Goals
+![Outcomes vs Goals](https://github.com/JuleahK/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
-###There were several hurdles that had to be overcome during this analysis. These challenges just came from the newness of Excel and its functions. Finding the correct parameters in formulas was the most common challenge encountered and research and class resources were used to overcome them. The dataset and instructions were straightforward easy to follow.
+There were several hurdles that had to be overcome during this analysis. These challenges just came from the newness of Excel and its functions. Finding the correct parameters in formulas was the most common challenge encountered and research and class resources were used to overcome them. The dataset and instructions were straightforward easy to follow.
 
 ##Results
 
